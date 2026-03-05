@@ -1,3 +1,3 @@
 # websocket-basic
 
-простая реализация работы websocket
+базовая реализация работы websocket
